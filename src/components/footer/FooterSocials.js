@@ -6,19 +6,19 @@ import Website from "../../assets/images/socials/portfolio.png";
 const socials = [
   {
     id: 1,
-    href: "https://github.com/catherineisonline/pizza-time-with-react",
+    
     img: Github,
     name: Github
   },
   {
     id: 2,
-    href: "https://www.linkedin.com/in/catherinemitagvaria/",
+   
     img: Linkedin,
     name: Linkedin
   },
   {
     id: 3,
-    href: "https://ekaterine-mitagvaria.vercel.app/",
+    
     img: Website,
     name: Website
   }

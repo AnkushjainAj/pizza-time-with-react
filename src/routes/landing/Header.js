@@ -27,7 +27,7 @@ const Header = ({ loginModal,
           className="logo-styling flex-container flex-row txt-center txt-white"
         >
           <img
-            width="50"
+            width="70"
             height="50"
             className="logo"
             src={logo}

@@ -18,7 +18,7 @@ const Hero = () => {
           transition={{ duration: 2 }}
         >
           <span>Welcome</span>
-          <h1 className="txt-white">try something amazing</h1>
+          <h1 className="txt-white">Try something amazing</h1>
           <p className="txt-white">
             Ordering your fave Pizza is quick and easy with our app or on our
             website.
